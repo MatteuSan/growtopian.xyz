@@ -32,6 +32,9 @@
             <NuxtLink to="/rules">Rules</NuxtLink>
           </li>
           <li>
+            <a href="/#servers">Public Servers</a>
+          </li>
+          <li>
             <a href="https://discord.gg/mPKz9gV" target="#">Support Server</a>
           </li>
           <li><NuxtLink to="/premium">Premium</NuxtLink></li>

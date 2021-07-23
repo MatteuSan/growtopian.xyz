@@ -1,5 +1,5 @@
 <template>
-  <section id="#servers" class="servers">
+  <section class="servers">
     <TitleBar>Featured Servers</TitleBar>
     <div class="server-list">
 

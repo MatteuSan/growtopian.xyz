@@ -57,9 +57,8 @@ export default {
     background-position-y: 5%;
     text-align: center;
     background-size: cover;
-    min-height: 79vh;
+    min-height: calc(100vh - 102px);
     height: fit-content;
-    padding-bottom: 25px;
 
     @media only screen and (max-width: 600px) {
       height: fit-content;

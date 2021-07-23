@@ -2,7 +2,7 @@
   <div class="content">
 
     <Hero />
-    <Servers />
+    <Servers id="servers" />
 
   </div>
 </template>
